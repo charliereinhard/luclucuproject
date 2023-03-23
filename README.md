@@ -1,6 +1,6 @@
 ## Project ini dijanalnkan menggunakan:
 
-1.git
+1.gitbash
 
 2.node.js
 
